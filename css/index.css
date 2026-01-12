@@ -1,6 +1,6 @@
 :root {
-    --bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    --card: #fff;
+    --bg: linear-gradient(135deg, #000 0%, #764ba2 100%);
+    --card: #667eea;
     --text: #333;
 }
 
